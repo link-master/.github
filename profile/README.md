@@ -21,6 +21,6 @@ Linkmaster is an open-source software written in React ⚛️ and Go 🐹.
 
 ### 💻 Contribution:
 
-Linkmaster is open for contribution. Join our community and contribute to the development of Linkmaster. Visit our [GitHub repository](https://github.com/linkmaster) to learn more about how you can get involved and make a difference.
+Linkmaster is open for contribution. Join our community and contribute to the development of Linkmaster. Visit our [GitHub repository](https://github.com/link-master) to learn more about how you can get involved and make a difference.
 
 Get started with Linkmaster today and streamline your link organization. Say goodbye to cluttered bookmarks and embrace a centralized and intuitive solution to manage all your valuable links efficiently!
